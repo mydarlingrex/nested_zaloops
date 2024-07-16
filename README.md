@@ -1,4 +1,3 @@
-# nested_zaloops
-Nested loops can't hurt you
+# Nested loops can't hurt you
 
-I learn Python and struggle with nested loops.
+Lonely repo from a slow Python learner.
