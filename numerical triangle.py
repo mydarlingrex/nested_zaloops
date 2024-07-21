@@ -1,5 +1,5 @@
 """
-creates a triangle with a side equals n that goes like this:
+creates a triangle with a side equal to n that goes like this:
 1
 2 3
 4 5 6
